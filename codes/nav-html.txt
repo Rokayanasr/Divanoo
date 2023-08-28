@@ -1,0 +1,20 @@
+<header class="header">
+        <nav>
+            <div>
+                <img class="logo" src="/logocolored.png">
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#"><span>home</span></a></li>
+                    <li><a href="#">Catalog</a></li>
+                    <li><a href="#">About us</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Registration</a></li>
+                </ul>
+            </div>
+            <div class="icons">
+                <img class="cart" src="/shopping-cart.png">
+                <img class="user" src="/user.png">
+            </div>
+        </nav>
+<header>
